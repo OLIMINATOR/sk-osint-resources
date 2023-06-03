@@ -12,7 +12,6 @@ def zmen_priezvisko(priezvisko):
         return priezvisko + "ová"
 
 
-
 def create_name(gender):
     with open("muzske_mena.txt", "r", encoding="utf-8") as mena_file, \
             open("zenske_mena.txt", "r", encoding="utf-8") as zeny_file, \
