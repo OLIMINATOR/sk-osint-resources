@@ -16,7 +16,7 @@
 ## Telefónne Čísla / Emaily
 - [Telefonny Zoznam](https://telefonny.zoznam.sk/)
 - [O2 Overenie Operátora](https://www.o2.sk/podpora/ostatne-sluzby/overte-si-operatora)
-- [Telekom Overenie Operátora]([https://www.o2.sk/podpora/ostatne-sluzby/overte-si-operatora](https://www.telekom.sk/wiki/volania/overenie-mobilneho-cisla))
+- [Telekom Overenie Operátora](https://www.telekom.sk/wiki/volania/overenie-mobilneho-cisla)
 - [Vyhľadávanie Čísla](www.vyhladavaniecisla.sk)
 - [Slicky](https://slick.ly/sk)
 
