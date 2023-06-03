@@ -6,8 +6,11 @@ def zmen_priezvisko(priezvisko):
         return priezvisko[:-1] + "ová"
     elif priezvisko.endswith(("ý", "í")):
         return priezvisko[:-1] + "á"
+    elif priezvisko.endswith("o"):
+        return priezvisko[:-1] + "vá"
     else:
         return priezvisko + "ová"
+
 
 
 def create_name(gender):
