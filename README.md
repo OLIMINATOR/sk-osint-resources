@@ -24,9 +24,7 @@
 - https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources
 - https://github.com/jivoi/awesome-osint
 
-
-
-
-https://www.dovera.sk/overenia/overit-poistenca
-https://sport.iedu.sk/Contact/Person/List
-https://www.potvrdeniaonavsteveskoly.sk/rodne-cislo
+*(čaká na zaradenie)*
+https://www.dovera.sk/overenia/overit-poistenca  
+https://sport.iedu.sk/Contact/Person/List  
+https://www.potvrdeniaonavsteveskoly.sk/rodne-cislo  
