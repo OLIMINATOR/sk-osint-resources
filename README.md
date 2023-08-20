@@ -28,3 +28,4 @@
 https://www.dovera.sk/overenia/overit-poistenca  
 https://sport.iedu.sk/Contact/Person/List  
 https://www.potvrdeniaonavsteveskoly.sk/rodne-cislo  
+https://kataster.skgeodesy.sk/eskn-portal/vyhladavanie
