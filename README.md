@@ -5,7 +5,7 @@
 - [ZBGIS Kataster nehnutelnosti](https://zbgis.skgeodesy.sk/mkzbgis/sk/kataster)
 - [ZBGIS Základná mapa](https://zbgis.skgeodesy.sk/mkzbgis/sk/zakladna-mapa)
 - [ÚGKKSR Portál elektronických služieb katastra nehnuteľností](https://kataster.skgeodesy.sk/eskn-portal/vyhladavanie)
-- ### SÚKROMNÉ
+### SÚKROMNÉ
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [Freemap Slovakia](https://www.freemap.sk/)
 - [Google Mapy](https://google.sk/maps)
