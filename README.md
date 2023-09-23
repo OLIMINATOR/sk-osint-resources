@@ -39,7 +39,7 @@
 ## Meta
 - [kdeje.info](https://www.kdeje.info/)
 - [Overenie poistného vzťahu poistenca](https://www.portaludzs.sk/)
-- [Potvrdenie o návšeteve školy .SK](https://www.potvrdeniaonavsteveskoly.sk/) 
+- [Potvrdenie o návšeteve školy .SK](https://www.potvrdeniaonavsteveskoly.sk/rodne-cislo)
 
 ## Viac: 
 - https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources
