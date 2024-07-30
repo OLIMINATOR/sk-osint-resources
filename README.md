@@ -36,6 +36,7 @@
 - [Finstat](https://finstat.sk)
 - [Finreg](https://finreg.sk)
 - [Dlžník.sk](https://dlznik.zoznam.sk/)
+- [Foaf](https://www.foaf.sk/)
 ## Meta
 - [kdeje.info](https://www.kdeje.info/)
 - [Overenie poistného vzťahu poistenca](https://www.portaludzs.sk/)
