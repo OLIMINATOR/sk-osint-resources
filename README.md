@@ -7,6 +7,7 @@
 - [ÚGKKSR Portál elektronických služieb katastra nehnuteľností](https://kataster.skgeodesy.sk/eskn-portal/vyhladavanie)
 ### SÚKROMNÉ
 - [OpenStreetMap](https://www.openstreetmap.org/)
+- [Open Infrastructure Map](https://openinframap.org)
 - [Freemap Slovakia](https://www.freemap.sk/)
 - [Google Mapy](https://google.sk/maps)
 - [Bing Maps](https://www.bing.com/maps/)
